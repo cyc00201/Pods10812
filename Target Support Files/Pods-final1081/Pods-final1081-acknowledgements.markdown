@@ -1702,7 +1702,7 @@ Copyright 2019 Google
    limitations under the License.
 
 
-## FirebaseFirestoreSwift
+## FirebaseInstanceID
 
 
                                  Apache License
@@ -1908,7 +1908,7 @@ Copyright 2019 Google
    limitations under the License.
 
 
-## FirebaseInstanceID
+## FirebaseStorage
 
 
                                  Apache License
